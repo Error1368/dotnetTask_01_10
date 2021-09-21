@@ -1,0 +1,10 @@
+D:\Work\projects\C#\sem5\T0010\T0010\bin\Debug\T0010.exe.config
+D:\Work\projects\C#\sem5\T0010\T0010\bin\Debug\T0010.exe
+D:\Work\projects\C#\sem5\T0010\T0010\bin\Debug\T0010.pdb
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.csproj.AssemblyReference.cache
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.Form1.resources
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.Properties.Resources.resources
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.csproj.GenerateResource.cache
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.csproj.CoreCompileInputs.cache
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.exe
+D:\Work\projects\C#\sem5\T0010\T0010\obj\Debug\T0010.pdb
